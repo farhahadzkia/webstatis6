@@ -87,7 +87,7 @@ margin-bottom: 20px;}
         padding-left: 30px;
         padding-right: 30px;
         padding-top: 50px;
-        background-image: url(images/tugas7/foother.png);
+        background-image: url(tugas7/foother.png);
         background-size: cover;
         color: black;
         font-family: monospace;
@@ -100,7 +100,7 @@ margin-bottom: 20px;}
     
 
 
-.back {background-image: url(images/tugas7/fatahilah.webp); 
+.back {background-image: url(tugas7/fatahilah.webp); 
     background-size: cover;
     padding-top: 2%;
     padding-bottom: 40%;
